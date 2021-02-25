@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inserimentoNumeriPariDispari", "inserimentoNumeriPariDispari\inserimentoNumeriPariDispari.csproj", "{8843E292-11B5-414F-9D2F-2F6A73718C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operazioni", "operazioni\operazioni.csproj", "{20CC3A75-F722-4549-8770-E21F6CF525F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8843E292-11B5-414F-9D2F-2F6A73718C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843E292-11B5-414F-9D2F-2F6A73718C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843E292-11B5-414F-9D2F-2F6A73718C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843E292-11B5-414F-9D2F-2F6A73718C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CC3A75-F722-4549-8770-E21F6CF525F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CC3A75-F722-4549-8770-E21F6CF525F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CC3A75-F722-4549-8770-E21F6CF525F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CC3A75-F722-4549-8770-E21F6CF525F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF2C3EB-7684-427D-8141-85CF9DACC354}
+	EndGlobalSection
+EndGlobal
